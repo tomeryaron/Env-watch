@@ -45,6 +45,7 @@ func main() {
 		TickInterval: 10 * time.Second, // run checks every 10s
 	}
 
+	// Create a context with cancellation
 	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
 
