@@ -1,0 +1,8 @@
+{
+    "editor.suggest.showStatusBar": true,
+    "problems.showCurrentInStatus": false,
+    "workbench.view.showQuietly": {
+        "workbench.panel.output": false
+    },
+    "git.blame.statusBarItem.enabled": true
+}
